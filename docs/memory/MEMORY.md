@@ -15,3 +15,7 @@
 - [Sticky Nav Interpretation](feedback_sticky_nav_interpretation.md) — "navbar ikut scroll" = always-visible (NOT Medium-style hide-on-down); confirmed by user correction 2026-05-28
 - [AIOSEO Audit + Fixes 2026-05-28](suriota_aioseo_audit_2026-05-28.md) — 5-phase batch: 20 desc backfill + 9 legacy noindex + 4 chain collapses + 3 new redirects + schema dedup (snippets 5639/5649)
 - [Portfolio Flicker Fix 2026-05-28](suriota_portfolio_flicker_fix.md) — Homepage portfolio JS hoisting bug — `render(cached)` ran before `var state` assigned → TypeError → empty tbody on cached reloads. Fixed via setTimeout(0) defer
+- [Compro Outreach State 2026-06-01](suriota_compro_outreach_state_2026-06-01.md) — 725 sends / 618 unique across 8 sub-campaigns (compro, _short, _tese×3, _sgmy, _ums, _inbound×2), engagement, known-bouncers, resync commands
+- [TESE Outreach Workflow 2026-06-01](suriota_tese_outreach_workflow_2026-06-01.md) — 6-step pipeline: classify → DNS verify → urllib + Playwright scrape → filter → register → fire; 247 no-email vendors → 46 sends
+- [Inbound Scan Workflow 2026-06-01](suriota_inbound_scan_workflow_2026-06-01.md) — IMAP-scan all @suriota.com mailboxes for historical senders → tier-classify → 29 deliverable warm leads from 382 unique; rerun quarterly
+- [Outreach Gotchas 2026-06-01](suriota_outreach_gotchas_2026-06-01.md) — Hunter "used=available" means maxed, Cloudflare Warp blocks IMAP 993, broadcast.py --cap 15 default, sync_playwright thread-unsafe, BOM CSVs, GA4 .get() bug

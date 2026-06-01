@@ -21,6 +21,7 @@ Thumbs.db
 # Temp files
 *.tmp
 *.temp
+tmp/
 tmp_*.json
 tmp_*.png
 tmp_*.jpg
@@ -78,3 +79,5 @@ review_zh_pages.py
 # Local WP REST backups (include snapshots only via release tags)
 backups/elementor_zh_original/
 backups/homepage-2026-05-26/
+backups/2026-05-31/
+backups/2026-06-01/

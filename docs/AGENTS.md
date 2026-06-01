@@ -6,7 +6,7 @@ Improvement UI/UX untuk website https://suriota.com menggunakan Elementor via MC
 ## 🔌 MCP Connection
 - **Server:** `elementor-mcp`
 - **Site:** https://suriota.com
-- **Plugin:** MCP Tools for Elementor v1.4.3 (100 tools)
+- **Plugin:** MCP Tools for Elementor v1.7.4 (113 tools) via MCP Adapter v0.5.0
 - **Auth:** Application Password (disimpan di wrapper)
 
 ## 🛠️ Semua Tools yang Bisa Dipakai
