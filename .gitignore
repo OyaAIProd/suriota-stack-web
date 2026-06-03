@@ -73,6 +73,13 @@ review_zh_pages.py
 # Env
 .env
 
+# Google service-account keys & SEO API creds (NEVER commit)
+audit/seo/sa.json
+audit/seo/*sa*.json
+audit/seo/*service*account*.json
+*service-account*.json
+sa.json
+
 # Claude Code local config
 .claude/
 
