@@ -1,0 +1,28 @@
+# Target keywords for suriota.com rank tracking (rank.py --file).
+# Edit freely. Lines starting with # are ignored. Bilingual EN/ID.
+
+# --- Core pillars (EN) ---
+industrial iot system integration batam
+modbus gateway iiot
+industrial iot indonesia
+scada system integration indonesia
+rs-485 surge protector
+digital transformation consulting batam
+ai industrial analytics
+
+# --- Core pillars (ID) ---
+integrasi sistem iot industri batam
+gateway modbus iiot
+konsultasi transformasi digital
+sistem scada indonesia
+
+# --- Products ---
+srt-mgate-1210 modbus gateway
+thm-30md temperature humidity transmitter
+iso m485 isolator
+waste water logger iot
+
+# --- Branded ---
+suriota
+pt surya inovasi prioritas
+surge energy mapping

@@ -1,0 +1,403 @@
+================ FULL SCORECARD (worst Perf first) ================
+page-lang-strat                                  P   A   B   S      LCP    CLS     TBT
+zh-shouye-zh-mobile                             39  95  96 100    5.9 s  0.433  490 ms
+schematic-programming-panel-schematic-programming-mini-perta-en-mobile  48  96  96 100    3.9 s  0.618  450 ms
+site-plan-2d-drawing-pt-ably-metal-en-desktop   52  96  96 100    1.4 s  0.2251,050 ms
+design-cad-tempat-pembuangan-sampah-pt-darmawan-en-mobile  55  96  96 100    3.9 s  0.462  330 ms
+drilling-boring-presisi-machining-3-tefa-smkn6-batam-en-mobile  58  96  96 100    3.8 s  0.366  320 ms
+sistem-kapasitor-bank-automatic-iot-based-mini-capacitor-ban-en-mobile  58  96  96 100    3.8 s   0.66  170 ms
+electrical-testing-instalasi-electrical-testing-avanti-coffe-en-mobile  59  96  96 100    3.8 s    0.3  370 ms
+internship-en-mobile                            59  96  96 100   11.2 s  0.156  110 ms
+perhitungan-flow-rate-engineering-calculation-flow-rate-pt-d-en-mobile  59  96  96 100    3.9 s  0.684   70 ms
+perhitungan-teknik-smoke-engineering-calculation-smoke-detec-en-mobile  60  96  96 100    3.8 s  0.764   80 ms
+survey-setup-vfd-en-mobile                      60  96  96 100    8.0 s      0   70 ms
+hybrid-pju-menggunakan-plts-dan-pltb-berbasis-iot-en-mobile  61  96  96 100    3.7 s  0.663   40 ms
+jamu-logo-dan-jamu-logo-product-design-pt-papa-aii-en-mobile  61  96  96 100    3.7 s  0.676   30 ms
+site-plan-2d-drawing-pt-ably-metal-en-mobile    61  96  96 100    3.7 s  0.666   20 ms
+ws-electrical-installation-pt-sentra-gapura-inovasi-en-mobile  61  96  96 100    3.7 s  0.661   30 ms
+digital-stamp-dokumen-digital-stamp-pt-darmawan-en-mobile  62  96  96 100    3.7 s  0.577   30 ms
+pengadaan-sensor-genset-procurement-genset-sensors-pt-dwiuta-en-mobile  62  96  96 100    3.8 s  0.385  190 ms
+id-beranda-id-mobile                            63  95  96 100    5.9 s  0.184   70 ms
+milling-cnc-bracket-machining-2-tefa-smkn6-batam-en-mobile  63  96  96 100    3.8 s  0.418  130 ms
+pemesinan-kontur-kompleks-machining-7-tefa-smkn6-batam-en-mobile  63  96  96 100    3.8 s  0.418  140 ms
+desain-logo-perusahaan-mns-logo-design-en-mobile  64  96  96 100    2.9 s    0.3  440 ms
+design-cad-kanopi-design-cad-canopy-pos-security-pt-darmawan-en-mobile  64  96  96 100    3.8 s  0.384  150 ms
+design-cad-water-treatment-pt-darmawan-en-mobile  64  96  96 100    4.0 s  0.353   90 ms
+prototype-sistem-monitoring-control-debit-flowmeter-en-mobile  64  96  96 100    3.8 s  0.438   80 ms
+sld-single-line-sld-smoke-detector-pt-darmawan-en-mobile  64  96  96 100    3.2 s  0.712   30 ms
+surge-water-analytics-monitoring-management-kualitas-air-flo-en-mobile  64  96  96 100    3.8 s  0.384  120 ms
+zh-gongye-wulianwang-jicheng-zh-mobile          64 100  96 100    8.6 s  0.152   80 ms
+logo-icon-printup-company-product-logo-design-pt-papa-aii-en-mobile  65  96  96 100    3.8 s  0.384   80 ms
+about-us-en-mobile                              66  94  96 100    8.6 s  0.017  120 ms
+desain-undangan-pernikahan-wedding-invitation-hardcopy-en-mobile  66  96  96 100    3.8 s    0.3  190 ms
+design-cad-sld-penang-chendul-en-mobile         66  96  96 100    3.8 s  0.331  140 ms
+load-suppression-electrical-power-calculations-en-mobile  66  96  96 100    3.8 s  0.353   70 ms
+monitoring-npk-tanah-smart-system-for-npk-and-plantation-soi-en-mobile  66  96  96 100    3.8 s  0.353  100 ms
+pemesinan-multi-proses-cnc-machining-4-tefa-smkn6-batam-en-mobile  66  96  96 100    3.8 s  0.353   90 ms
+pengaman-phase-dan-penangkal-petir-waduk-sungai-pulai-en-mobile  66  96  96 100    3.7 s  0.384   40 ms
+prototype-hardware-monitoring-control-npk-en-mobile  66  96  96 100    3.7 s  0.385   40 ms
+repair-replacement-sparing-sensors-en-mobile    66  96  96 100    3.8 s  0.331  120 ms
+surge-energy-mapping-monitoring-control-daya-listrik-en-mobile  66  96  96 100    3.7 s  0.384   40 ms
+surge-energy-mapping-monitoring-management-hvac-en-mobile  66  96  96 100    3.7 s  0.384   20 ms
+suriota-modbus-gateway-iiot-integrasi-iot-sensor-water-quali-en-mobile  66  96  96 100    3.7 s  0.384   60 ms
+cnc-bubut-poros-machining-1-tefa-smkn6-batam-en-mobile  67  96  96 100    3.8 s  0.331   60 ms
+electrical-wiring-commissioning-en-mobile       67  96  96 100    3.8 s  0.331   90 ms
+gambar-pid-sistem-2d-splingker-pid-pt-darmawan-en-mobile  67  96  96 100    3.7 s  0.353   30 ms
+jasa-maintenance-webmail-webmail-maintenance-pt-hijrah-trave-en-mobile  67  96  96 100    3.8 s  0.331   70 ms
+pemesinan-stainless-steel-machining-8-tefa-smkn6-batam-en-mobile  67  96  96 100    3.8 s  0.353   60 ms
+procurement-module-web-procurement-module-pt-koltiva-en-mobile  67  96  96 100    3.7 s  0.332   60 ms
+produksi-batch-cnc-machining-5-tefa-smkn6-batam-en-mobile  67  96  96 100    3.7 s  0.353   40 ms
+program-pendeteksi-bentuk-objek-en-mobile       67  96  96 100    3.8 s  0.331   80 ms
+program-pendeteksi-warna-program-pendeteksi-rgb-cmyk-dan-hsl-en-mobile  67  96  96 100    3.8 s  0.331   60 ms
+quality-control-pemesinan-machining-9-tefa-smkn6-batam-en-mobile  67  96  96 100    3.7 s  0.353   50 ms
+rewinding-pompa-sentrifugal-75kw-sungai-pulai-en-mobile  67  96  96 100    3.7 s  0.353   60 ms
+sistem-pakan-ikan-control-monitoring-pakan-ikan-berbasis-iot-en-mobile  67  96  96 100    3.7 s  0.353   30 ms
+surface-grinding-pemesinan-machining-6-tefa-smkn6-batam-en-mobile  67  96  96 100    3.7 s  0.353   50 ms
+water-level-monitoring-water-level-berbasis-iot-dan-labview-en-mobile  67  96  96 100    3.8 s  0.331   90 ms
+ws-electrical-installation-pt-multi-mitra-guna-en-mobile  67  96  96 100    3.7 s  0.353   40 ms
+home-en-mobile                                  68  95  96 100   5.9Â s  0.077 170Â ms
+maintenance-wtp-water-maintenance-wtp-en-mobile  68  96  96 100    3.8 s    0.3   70 ms
+perhitungan-teknik-smoke-engineering-calculation-smoke-detec-en-desktop  68  96  96 100    1.3 s  0.249  310 ms
+portfolio-en-mobile                             68  96  96 100    7.8 s  0.017   90 ms
+rewinding-pompa-submersible-satelite-45-kw-en-mobile  68  96  96 100    3.3 s  0.353  130 ms
+desain-stiker-perusahaan-anshun-sticker-design-en-mobile  69  96  96 100    3.7 s    0.3   60 ms
+deteksi-objek-yolo-object-yolo-ai-en-mobile     69  96  96 100    3.7 s    0.3   50 ms
+lifa-programming-arduino-lifa-programming-en-mobile  69  96  96 100    3.8 s    0.3   80 ms
+maintenance-sparing-wwtp-en-mobile              69  96  96 100    3.7 s    0.3   30 ms
+modul-absensi-iot-module-absensi-iot-en-mobile  69  96  96 100    3.7 s    0.3   30 ms
+pembuatan-website-sekolah-website-sekolah-en-mobile  69  96  96 100    3.8 s    0.3   60 ms
+prototype-iot-robot-tank-en-mobile              69  96  96 100    3.7 s    0.3   40 ms
+setup-ethernet-printer-en-mobile                69  96  96 100    3.7 s    0.3   50 ms
+setup-genset-dse-5520-en-mobile                 69  96  96 100    3.7 s    0.3   30 ms
+digital-consulting-en-mobile                    71  96  96 100   3.5Â s  0.248  90Â ms
+migrasi-server-klhk-migration-server-klhk-development-dashbo-en-mobile  71  96  96 100    2.9 s  0.384   70 ms
+monitoring-ph-suhu-plantation-ph-temp-hum-monitoring-and-soi-en-mobile  71  96  96 100    2.9 s  0.384  120 ms
+pengadaan-material-bahan-material-1-tefa-smkn6-batam-en-mobile  71  96  96 100    3.7 s  0.258   30 ms
+automation-en-mobile                            72  96  96 100    3.5 s  0.238   20 ms
+electrical-en-mobile                            72  96  96 100    3.4 s  0.238   60 ms
+kontrol-monitoring-ats-control-monitoring-ats-panel-surya-be-en-mobile  72  96  96 100    2.9 s  0.353  110 ms
+waste-water-logger-en-mobile                    72 100  96 100    7.7 s  0.017   70 ms
+digital-transformation-consulting-en-mobile     73  96  96 100   2.9Â s  0.248 180Â ms
+privacy-policy-en-mobile                        73  98  96 100    3.0 s  0.214  220 ms
+setup-genset-dse-5520-en-desktop                73  96  96 100    1.3 s  0.569   40 ms
+sitemap-en-mobile                               73  98  96 100   3.0Â s  0.288  80Â ms
+suriota-modbus-gateway-en-mobile                74 100  96 100    8.0 s  0.017   50 ms
+artificial-intelligence-en-mobile               75 100  96 100   3.4Â s  0.185  70Â ms
+industrial-engineering-automation-en-mobile     75  96  96 100   3.0Â s  0.238  20Â ms
+internet-of-things-en-mobile                    75 100  96 100   3.4Â s  0.237  20Â ms
+system-integration-en-mobile                    75 100  96 100   3.4Â s  0.237  60Â ms
+data-analytics-en-mobile                        77 100  96 100   3.1Â s  0.185  80Â ms
+iso-m485-series-en-mobile                       77 100  96 100    5.5 s  0.017   70 ms
+rs-485-surge-protector-spd-t485-105-en-mobile   77 100  96 100    5.4 s  0.017   80 ms
+software-as-a-service-en-mobile                 77 100  96 100   3.2Â s  0.237  70Â ms
+renewable-energy-en-mobile                      78  98  96 100    3.3 s  0.019  330 ms
+terms-of-service-en-mobile                      78  98  96 100   3.0Â s  0.211  80Â ms
+ai-industrial-analytics-en-mobile               79 100  96 100   2.9Â s  0.185  90Â ms
+digital-stamp-dokumen-digital-stamp-pt-darmawan-en-desktop  79  96  96 100    1.8 s  0.251   50 ms
+schematic-programming-panel-schematic-programming-mini-perta-en-desktop  79  96  96 100    1.9 s  0.213  100 ms
+logo-icon-printup-company-product-logo-design-pt-papa-aii-en-desktop  81  96  96 100    1.7 s  0.217   80 ms
+sitemap-en-desktop                              81  94  96 100   0.8Â s  0.344  90Â ms
+surge-saas-platform-en-mobile                   81 100  96 100   2.6Â s  0.237 140Â ms
+desain-logo-perusahaan-mns-logo-design-en-desktop  82  96  96 100    1.6 s  0.216   60 ms
+desain-stiker-perusahaan-anshun-sticker-design-en-desktop  82  96  96 100    1.7 s  0.215   60 ms
+id-iot-industri-integrasi-sistem-id-mobile      82 100  96 100    2.9 s  0.184   60 ms
+industrial-iot-system-integration-en-mobile     82 100  96 100   2.6Â s  0.237  30Â ms
+perhitungan-flow-rate-engineering-calculation-flow-rate-pt-d-en-desktop  82  96  96 100    1.4 s  0.249   90 ms
+suriota-modbus-gateway-iiot-integrasi-iot-sensor-water-quali-en-desktop  82  96  96 100    1.3 s  0.248   90 ms
+design-cad-water-treatment-pt-darmawan-en-desktop  83  96  96 100    1.4 s  0.229   50 ms
+deteksi-objek-yolo-object-yolo-ai-en-desktop    83  96  96 100    1.0 s  0.217  150 ms
+gambar-pid-sistem-2d-splingker-pid-pt-darmawan-en-desktop  83  96  96 100    1.3 s  0.245   80 ms
+lifa-programming-arduino-lifa-programming-en-desktop  83  96  96 100    1.5 s  0.218   80 ms
+modul-absensi-iot-module-absensi-iot-en-desktop  83  96  96 100    1.4 s  0.229   80 ms
+monitoring-ph-suhu-plantation-ph-temp-hum-monitoring-and-soi-en-desktop  83  96  96 100    1.3 s  0.247   70 ms
+prototype-hardware-monitoring-control-npk-en-desktop  83  96  96 100    1.3 s  0.217  110 ms
+sistem-kapasitor-bank-automatic-iot-based-mini-capacitor-ban-en-desktop  83  96  96 100    1.3 s  0.229   90 ms
+thm-30md-en-mobile                              83 100  96 100    2.7 s  0.017  380 ms
+cnc-bubut-poros-machining-1-tefa-smkn6-batam-en-desktop  84  96  96 100    1.4 s  0.215   70 ms
+program-pendeteksi-warna-program-pendeteksi-rgb-cmyk-dan-hsl-en-desktop  84  96  96 100    1.5 s  0.215   40 ms
+surge-vessel-tracking-en-desktop                84  94  96 100    1.4 s  0.182  120 ms
+surge-water-analytic-en-desktop                 84  94  96 100    1.6 s  0.188   30 ms
+milling-cnc-bracket-machining-2-tefa-smkn6-batam-en-desktop  85  96  96 100    1.7 s  0.163   90 ms
+procurement-module-web-procurement-module-pt-koltiva-en-desktop  85  96  96 100    1.7 s  0.163   70 ms
+quality-control-pemesinan-machining-9-tefa-smkn6-batam-en-desktop  85  96  96 100    1.3 s  0.215   40 ms
+water-level-monitoring-water-level-berbasis-iot-dan-labview-en-desktop  85  96  96 100    1.7 s   0.16   40 ms
+water-treatment-en-mobile                       85  98  96 100    3.3 s  0.019   80 ms
+hybrid-pju-menggunakan-plts-dan-pltb-berbasis-iot-en-desktop  86  96  96 100    0.9 s   0.24   40 ms
+jasa-maintenance-webmail-webmail-maintenance-pt-hijrah-trave-en-desktop  86  96  96 100    1.6 s  0.164   70 ms
+pemesinan-kontur-kompleks-machining-7-tefa-smkn6-batam-en-desktop  86  96  96 100    1.7 s   0.16   40 ms
+prototype-sistem-monitoring-control-debit-flowmeter-en-desktop  86  96  96 100    1.6 s  0.164   60 ms
+surge-energy-mapping-monitoring-management-hvac-en-desktop  86  96  96 100    1.7 s   0.16   60 ms
+surge-vessel-tracking-en-mobile                 86  98  96 100    3.0 s  0.038  130 ms
+artikel-en-mobile                               87  96  92 100   3.0Â s  0.085  50Â ms
+contact-en-mobile                               87  94  96 100    3.0 s  0.018   80 ms
+design-cad-tempat-pembuangan-sampah-pt-darmawan-en-desktop  87  96  96 100    1.3 s  0.197   40 ms
+electrical-testing-instalasi-electrical-testing-avanti-coffe-en-desktop  87  96  96 100    1.4 s  0.163   60 ms
+jamu-logo-dan-jamu-logo-product-design-pt-papa-aii-en-desktop  87  96  96 100    1.5 s   0.16   80 ms
+maintenance-sparing-wwtp-en-desktop             87  96  96 100    1.5 s  0.166   70 ms
+migrasi-server-klhk-migration-server-klhk-development-dashbo-en-desktop  87  96  96 100    1.0 s  0.164  170 ms
+pemesinan-stainless-steel-machining-8-tefa-smkn6-batam-en-desktop  87  96  96 100    0.9 s  0.214   70 ms
+portfolio-en-desktop                            87  96  96 100    1.8 s      0  150 ms
+rewinding-pompa-sentrifugal-75kw-sungai-pulai-en-desktop  87  96  96 100    1.4 s  0.177   80 ms
+rewinding-pompa-submersible-satelite-45-kw-en-desktop  87  96  96 100    1.4 s  0.163   40 ms
+surge-energy-mapping-en-mobile                  87  98  96 100    3.0 s  0.019   80 ms
+surge-water-analytic-en-mobile                  87  98  96 100    3.0 s  0.018   90 ms
+surge-water-analytics-monitoring-management-kualitas-air-flo-en-desktop  87  96  96 100    1.3 s  0.195   60 ms
+data-analytics-en-desktop                       88  96  96 100   1.6Â s  0.058 140Â ms
+desain-undangan-pernikahan-wedding-invitation-hardcopy-en-desktop  88  96  96 100    1.3 s  0.162   70 ms
+design-cad-sld-penang-chendul-en-desktop        88  96  96 100    1.3 s  0.163   80 ms
+electrical-wiring-commissioning-en-desktop      88  96  96 100    1.3 s  0.167   40 ms
+load-suppression-electrical-power-calculations-en-desktop  88  96  96 100    1.3 s  0.163   60 ms
+pembuatan-website-sekolah-website-sekolah-en-desktop  88  96  96 100    1.4 s   0.16   40 ms
+pengaman-phase-dan-penangkal-petir-waduk-sungai-pulai-en-desktop  88  96  96 100    1.3 s  0.164   70 ms
+program-pendeteksi-bentuk-objek-en-desktop      88  96  96 100    0.9 s  0.214   60 ms
+prototype-iot-robot-tank-en-desktop             88  96  96 100    1.3 s  0.171   40 ms
+sld-single-line-sld-smoke-detector-pt-darmawan-en-desktop  88  96  96 100    1.4 s  0.167   60 ms
+system-integration-en-desktop                   88  96  96 100   2.1Â s   0.05  40Â ms
+ws-electrical-installation-pt-multi-mitra-guna-en-desktop  88  96  96 100    1.4 s   0.16   40 ms
+about-us-en-desktop                             89  94  96 100    0.8 s   0.19   30 ms
+design-cad-kanopi-design-cad-canopy-pos-security-pt-darmawan-en-desktop  89  96  96 100    1.3 s   0.16   30 ms
+internet-of-things-en-desktop                   89  96  96 100   2.1Â s   0.05  30Â ms
+kontrol-monitoring-ats-control-monitoring-ats-panel-surya-be-en-desktop  89  96  96 100    1.3 s  0.168   40 ms
+monitoring-npk-tanah-smart-system-for-npk-and-plantation-soi-en-desktop  89  96  96 100    1.3 s   0.16   60 ms
+pemesinan-multi-proses-cnc-machining-4-tefa-smkn6-batam-en-desktop  89  96  96 100    1.3 s   0.16   50 ms
+pengadaan-material-bahan-material-1-tefa-smkn6-batam-en-desktop  89  96  96 100    1.3 s  0.163   80 ms
+pengadaan-sensor-genset-procurement-genset-sensors-pt-dwiuta-en-desktop  89  96  96 100    1.4 s   0.16   40 ms
+repair-replacement-sparing-sensors-en-desktop   89  96  96 100    1.1 s  0.166   80 ms
+setup-ethernet-printer-en-desktop               89  96  96 100    1.3 s   0.16   40 ms
+sistem-pakan-ikan-control-monitoring-pakan-ikan-berbasis-iot-en-desktop  89  96  96 100    1.3 s  0.164   40 ms
+surface-grinding-pemesinan-machining-6-tefa-smkn6-batam-en-desktop  89  96  96 100    1.3 s   0.16   50 ms
+surge-energy-mapping-monitoring-control-daya-listrik-en-desktop  89  96  96 100    1.1 s  0.168   90 ms
+survey-setup-vfd-en-desktop                     89  96  96 100    1.3 s  0.165   30 ms
+ws-electrical-installation-pt-sentra-gapura-inovasi-en-desktop  89  96  96 100    1.3 s   0.16   40 ms
+electrical-en-desktop                           90  96  96 100    1.7 s   0.05   60 ms
+id-suriota-modbus-gateway-id-id-mobile          90 100  96 100    3.2 s  0.017   60 ms
+industrial-iot-system-integration-en-desktop    90  96  96 100   1.9Â s   0.05 100Â ms
+unsubscribe-en-mobile                           90  96  96  69   2.3Â s  0.124  90Â ms
+waste-water-logger-en-desktop                   90  96  96 100    1.9 s      0   50 ms
+zh-gongye-wulianwang-jicheng-zh-desktop         90  96  96 100    1.9 s   0.05   60 ms
+ai-industrial-analytics-en-desktop              91  96  96 100   1.7Â s  0.058  80Â ms
+artificial-intelligence-en-desktop              91  96  96 100   1.6Â s  0.058  90Â ms
+artikel-en-desktop                              91  96  96 100   0.8Â s  0.163  50Â ms
+automation-en-desktop                           91  96  96 100    1.7 s   0.05   60 ms
+digital-consulting-en-desktop                   91  96  96 100   1.7Â s  0.059  30Â ms
+digital-transformation-consulting-en-desktop    91  96  96 100   1.9Â s  0.059  50Â ms
+drilling-boring-presisi-machining-3-tefa-smkn6-batam-en-desktop  91  96  96 100    0.9 s   0.16   10 ms
+id-iot-industri-integrasi-sistem-id-desktop     91  96  96 100    1.9 s   0.05   50 ms
+maintenance-wtp-water-maintenance-wtp-en-desktop  91  96  96 100    0.9 s   0.17   60 ms
+zh-modbus-gateway-zh-mobile                     91 100  96 100    3.0 s  0.017   50 ms
+produksi-batch-cnc-machining-5-tefa-smkn6-batam-en-desktop  92  96  96 100    0.8 s  0.163   50 ms
+software-as-a-service-en-desktop                92  96  96 100   1.6Â s   0.05  30Â ms
+surge-energy-mapping-en-desktop                 92  94  96 100    1.6 s  0.084   30 ms
+surge-saas-platform-en-desktop                  92  96  96 100   1.7Â s   0.05  50Â ms
+industrial-engineering-automation-en-desktop    93  96  96 100   1.6Â s   0.05  60Â ms
+internship-en-desktop                           93  96  96 100    1.6 s      0   40 ms
+pm1611-wd-en-mobile                             94 100  96 100    2.7 s  0.017   70 ms
+rs-485-surge-protector-spd-t485-105-en-desktop  94  96  96 100    1.4 s      0  100 ms
+zh-modbus-gateway-zh-desktop                    94  96  96 100    0.7 s      0  180 ms
+zh-shouye-zh-desktop                            94  95  96 100    1.1 s   0.05  130 ms
+home-en-desktop                                 95  95  96 100   1.3Â s   0.05  20Â ms
+thm-30md-en-desktop                             95  96  96 100    1.4 s      0   70 ms
+id-beranda-id-desktop                           96  95  96 100    1.1 s   0.05   40 ms
+iso-m485-series-en-desktop                      96  96  96 100    1.3 s      0   50 ms
+renewable-energy-en-desktop                     96  94  96 100    0.9 s  0.084   50 ms
+water-treatment-en-desktop                      96  94  96 100    0.9 s  0.084   30 ms
+contact-en-desktop                              97  94  96 100    0.8 s  0.001  100 ms
+pm1611-wd-en-desktop                            97  96  96 100    0.7 s      0  130 ms
+terms-of-service-en-desktop                     98  94  96 100    0.8 s  0.008   60 ms
+id-suriota-modbus-gateway-id-id-desktop         99  96  96 100    0.8 s      0   60 ms
+privacy-policy-en-desktop                       99  94  96 100    0.8 s  0.006   40 ms
+suriota-modbus-gateway-en-desktop               99  96  96 100    0.8 s      0   30 ms
+unsubscribe-en-desktop                         100  96  96  69   0.6Â s  0.029  40Â ms
+
+================ COVERAGE / PASS-RATE ================
+  Performance    min= 39 avg= 78  >=90: 39/208  (fails: 169)
+  Accessibility  min= 94 avg= 96  >=90: 208/208  (fails: 0)
+  Best-Practices min= 92 avg= 95  >=90: 208/208  (fails: 0)
+  SEO            min= 69 avg= 99  >=90: 206/208  (fails: 2)
+  measured page×strategy: 208  (mobile 104, desktop 104)
+
+================ BELOW-90 by category ================
+
+  -- Performance <90 (169) --
+      39  zh-shouye-zh-mobile
+      48  schematic-programming-panel-schematic-programming-mini-perta-en-mobile
+      52  site-plan-2d-drawing-pt-ably-metal-en-desktop
+      55  design-cad-tempat-pembuangan-sampah-pt-darmawan-en-mobile
+      58  drilling-boring-presisi-machining-3-tefa-smkn6-batam-en-mobile
+      58  sistem-kapasitor-bank-automatic-iot-based-mini-capacitor-ban-en-mobile
+      59  electrical-testing-instalasi-electrical-testing-avanti-coffe-en-mobile
+      59  internship-en-mobile
+      59  perhitungan-flow-rate-engineering-calculation-flow-rate-pt-d-en-mobile
+      60  perhitungan-teknik-smoke-engineering-calculation-smoke-detec-en-mobile
+      60  survey-setup-vfd-en-mobile
+      61  hybrid-pju-menggunakan-plts-dan-pltb-berbasis-iot-en-mobile
+      61  jamu-logo-dan-jamu-logo-product-design-pt-papa-aii-en-mobile
+      61  site-plan-2d-drawing-pt-ably-metal-en-mobile
+      61  ws-electrical-installation-pt-sentra-gapura-inovasi-en-mobile
+      62  digital-stamp-dokumen-digital-stamp-pt-darmawan-en-mobile
+      62  pengadaan-sensor-genset-procurement-genset-sensors-pt-dwiuta-en-mobile
+      63  id-beranda-id-mobile
+      63  milling-cnc-bracket-machining-2-tefa-smkn6-batam-en-mobile
+      63  pemesinan-kontur-kompleks-machining-7-tefa-smkn6-batam-en-mobile
+      64  desain-logo-perusahaan-mns-logo-design-en-mobile
+      64  design-cad-kanopi-design-cad-canopy-pos-security-pt-darmawan-en-mobile
+      64  design-cad-water-treatment-pt-darmawan-en-mobile
+      64  prototype-sistem-monitoring-control-debit-flowmeter-en-mobile
+      64  sld-single-line-sld-smoke-detector-pt-darmawan-en-mobile
+      64  surge-water-analytics-monitoring-management-kualitas-air-flo-en-mobile
+      64  zh-gongye-wulianwang-jicheng-zh-mobile
+      65  logo-icon-printup-company-product-logo-design-pt-papa-aii-en-mobile
+      66  about-us-en-mobile
+      66  desain-undangan-pernikahan-wedding-invitation-hardcopy-en-mobile
+      66  design-cad-sld-penang-chendul-en-mobile
+      66  load-suppression-electrical-power-calculations-en-mobile
+      66  monitoring-npk-tanah-smart-system-for-npk-and-plantation-soi-en-mobile
+      66  pemesinan-multi-proses-cnc-machining-4-tefa-smkn6-batam-en-mobile
+      66  pengaman-phase-dan-penangkal-petir-waduk-sungai-pulai-en-mobile
+      66  prototype-hardware-monitoring-control-npk-en-mobile
+      66  repair-replacement-sparing-sensors-en-mobile
+      66  surge-energy-mapping-monitoring-control-daya-listrik-en-mobile
+      66  surge-energy-mapping-monitoring-management-hvac-en-mobile
+      66  suriota-modbus-gateway-iiot-integrasi-iot-sensor-water-quali-en-mobile
+      67  cnc-bubut-poros-machining-1-tefa-smkn6-batam-en-mobile
+      67  electrical-wiring-commissioning-en-mobile
+      67  gambar-pid-sistem-2d-splingker-pid-pt-darmawan-en-mobile
+      67  jasa-maintenance-webmail-webmail-maintenance-pt-hijrah-trave-en-mobile
+      67  pemesinan-stainless-steel-machining-8-tefa-smkn6-batam-en-mobile
+      67  procurement-module-web-procurement-module-pt-koltiva-en-mobile
+      67  produksi-batch-cnc-machining-5-tefa-smkn6-batam-en-mobile
+      67  program-pendeteksi-bentuk-objek-en-mobile
+      67  program-pendeteksi-warna-program-pendeteksi-rgb-cmyk-dan-hsl-en-mobile
+      67  quality-control-pemesinan-machining-9-tefa-smkn6-batam-en-mobile
+      67  rewinding-pompa-sentrifugal-75kw-sungai-pulai-en-mobile
+      67  sistem-pakan-ikan-control-monitoring-pakan-ikan-berbasis-iot-en-mobile
+      67  surface-grinding-pemesinan-machining-6-tefa-smkn6-batam-en-mobile
+      67  water-level-monitoring-water-level-berbasis-iot-dan-labview-en-mobile
+      67  ws-electrical-installation-pt-multi-mitra-guna-en-mobile
+      68  home-en-mobile
+      68  maintenance-wtp-water-maintenance-wtp-en-mobile
+      68  perhitungan-teknik-smoke-engineering-calculation-smoke-detec-en-desktop
+      68  portfolio-en-mobile
+      68  rewinding-pompa-submersible-satelite-45-kw-en-mobile
+      69  desain-stiker-perusahaan-anshun-sticker-design-en-mobile
+      69  deteksi-objek-yolo-object-yolo-ai-en-mobile
+      69  lifa-programming-arduino-lifa-programming-en-mobile
+      69  maintenance-sparing-wwtp-en-mobile
+      69  modul-absensi-iot-module-absensi-iot-en-mobile
+      69  pembuatan-website-sekolah-website-sekolah-en-mobile
+      69  prototype-iot-robot-tank-en-mobile
+      69  setup-ethernet-printer-en-mobile
+      69  setup-genset-dse-5520-en-mobile
+      71  digital-consulting-en-mobile
+      71  migrasi-server-klhk-migration-server-klhk-development-dashbo-en-mobile
+      71  monitoring-ph-suhu-plantation-ph-temp-hum-monitoring-and-soi-en-mobile
+      71  pengadaan-material-bahan-material-1-tefa-smkn6-batam-en-mobile
+      72  automation-en-mobile
+      72  electrical-en-mobile
+      72  kontrol-monitoring-ats-control-monitoring-ats-panel-surya-be-en-mobile
+      72  waste-water-logger-en-mobile
+      73  digital-transformation-consulting-en-mobile
+      73  privacy-policy-en-mobile
+      73  setup-genset-dse-5520-en-desktop
+      73  sitemap-en-mobile
+      74  suriota-modbus-gateway-en-mobile
+      75  artificial-intelligence-en-mobile
+      75  industrial-engineering-automation-en-mobile
+      75  internet-of-things-en-mobile
+      75  system-integration-en-mobile
+      77  data-analytics-en-mobile
+      77  iso-m485-series-en-mobile
+      77  rs-485-surge-protector-spd-t485-105-en-mobile
+      77  software-as-a-service-en-mobile
+      78  renewable-energy-en-mobile
+      78  terms-of-service-en-mobile
+      79  ai-industrial-analytics-en-mobile
+      79  digital-stamp-dokumen-digital-stamp-pt-darmawan-en-desktop
+      79  schematic-programming-panel-schematic-programming-mini-perta-en-desktop
+      81  logo-icon-printup-company-product-logo-design-pt-papa-aii-en-desktop
+      81  sitemap-en-desktop
+      81  surge-saas-platform-en-mobile
+      82  desain-logo-perusahaan-mns-logo-design-en-desktop
+      82  desain-stiker-perusahaan-anshun-sticker-design-en-desktop
+      82  id-iot-industri-integrasi-sistem-id-mobile
+      82  industrial-iot-system-integration-en-mobile
+      82  perhitungan-flow-rate-engineering-calculation-flow-rate-pt-d-en-desktop
+      82  suriota-modbus-gateway-iiot-integrasi-iot-sensor-water-quali-en-desktop
+      83  design-cad-water-treatment-pt-darmawan-en-desktop
+      83  deteksi-objek-yolo-object-yolo-ai-en-desktop
+      83  gambar-pid-sistem-2d-splingker-pid-pt-darmawan-en-desktop
+      83  lifa-programming-arduino-lifa-programming-en-desktop
+      83  modul-absensi-iot-module-absensi-iot-en-desktop
+      83  monitoring-ph-suhu-plantation-ph-temp-hum-monitoring-and-soi-en-desktop
+      83  prototype-hardware-monitoring-control-npk-en-desktop
+      83  sistem-kapasitor-bank-automatic-iot-based-mini-capacitor-ban-en-desktop
+      83  thm-30md-en-mobile
+      84  cnc-bubut-poros-machining-1-tefa-smkn6-batam-en-desktop
+      84  program-pendeteksi-warna-program-pendeteksi-rgb-cmyk-dan-hsl-en-desktop
+      84  surge-vessel-tracking-en-desktop
+      84  surge-water-analytic-en-desktop
+      85  milling-cnc-bracket-machining-2-tefa-smkn6-batam-en-desktop
+      85  procurement-module-web-procurement-module-pt-koltiva-en-desktop
+      85  quality-control-pemesinan-machining-9-tefa-smkn6-batam-en-desktop
+      85  water-level-monitoring-water-level-berbasis-iot-dan-labview-en-desktop
+      85  water-treatment-en-mobile
+      86  hybrid-pju-menggunakan-plts-dan-pltb-berbasis-iot-en-desktop
+      86  jasa-maintenance-webmail-webmail-maintenance-pt-hijrah-trave-en-desktop
+      86  pemesinan-kontur-kompleks-machining-7-tefa-smkn6-batam-en-desktop
+      86  prototype-sistem-monitoring-control-debit-flowmeter-en-desktop
+      86  surge-energy-mapping-monitoring-management-hvac-en-desktop
+      86  surge-vessel-tracking-en-mobile
+      87  artikel-en-mobile
+      87  contact-en-mobile
+      87  design-cad-tempat-pembuangan-sampah-pt-darmawan-en-desktop
+      87  electrical-testing-instalasi-electrical-testing-avanti-coffe-en-desktop
+      87  jamu-logo-dan-jamu-logo-product-design-pt-papa-aii-en-desktop
+      87  maintenance-sparing-wwtp-en-desktop
+      87  migrasi-server-klhk-migration-server-klhk-development-dashbo-en-desktop
+      87  pemesinan-stainless-steel-machining-8-tefa-smkn6-batam-en-desktop
+      87  portfolio-en-desktop
+      87  rewinding-pompa-sentrifugal-75kw-sungai-pulai-en-desktop
+      87  rewinding-pompa-submersible-satelite-45-kw-en-desktop
+      87  surge-energy-mapping-en-mobile
+      87  surge-water-analytic-en-mobile
+      87  surge-water-analytics-monitoring-management-kualitas-air-flo-en-desktop
+      88  data-analytics-en-desktop
+      88  desain-undangan-pernikahan-wedding-invitation-hardcopy-en-desktop
+      88  design-cad-sld-penang-chendul-en-desktop
+      88  electrical-wiring-commissioning-en-desktop
+      88  load-suppression-electrical-power-calculations-en-desktop
+      88  pembuatan-website-sekolah-website-sekolah-en-desktop
+      88  pengaman-phase-dan-penangkal-petir-waduk-sungai-pulai-en-desktop
+      88  program-pendeteksi-bentuk-objek-en-desktop
+      88  prototype-iot-robot-tank-en-desktop
+      88  sld-single-line-sld-smoke-detector-pt-darmawan-en-desktop
+      88  system-integration-en-desktop
+      88  ws-electrical-installation-pt-multi-mitra-guna-en-desktop
+      89  about-us-en-desktop
+      89  design-cad-kanopi-design-cad-canopy-pos-security-pt-darmawan-en-desktop
+      89  internet-of-things-en-desktop
+      89  kontrol-monitoring-ats-control-monitoring-ats-panel-surya-be-en-desktop
+      89  monitoring-npk-tanah-smart-system-for-npk-and-plantation-soi-en-desktop
+      89  pemesinan-multi-proses-cnc-machining-4-tefa-smkn6-batam-en-desktop
+      89  pengadaan-material-bahan-material-1-tefa-smkn6-batam-en-desktop
+      89  pengadaan-sensor-genset-procurement-genset-sensors-pt-dwiuta-en-desktop
+      89  repair-replacement-sparing-sensors-en-desktop
+      89  setup-ethernet-printer-en-desktop
+      89  sistem-pakan-ikan-control-monitoring-pakan-ikan-berbasis-iot-en-desktop
+      89  surface-grinding-pemesinan-machining-6-tefa-smkn6-batam-en-desktop
+      89  surge-energy-mapping-monitoring-control-daya-listrik-en-desktop
+      89  survey-setup-vfd-en-desktop
+      89  ws-electrical-installation-pt-sentra-gapura-inovasi-en-desktop
+
+  -- SEO <90 (2) --
+      69  unsubscribe-en-desktop
+      69  unsubscribe-en-mobile
+
+================ ROOT-CAUSE CLUSTERS (audit fails across N page×strat) ================
+  unused-javascript            fails on 208 page×strat  ~52150ms tot
+  largest-contentful-paint     fails on 182 page×strat  
+  cumulative-layout-shift      fails on 154 page×strat  
+  unused-css-rules             fails on 140 page×strat  ~300ms tot
+  unminified-css               fails on  30 page×strat  
+  redirects                    fails on  20 page×strat  
+  total-blocking-time          fails on  14 page×strat  

@@ -1,0 +1,16 @@
+.elementor-kit-5{--e-global-color-primary:#205B69;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#C8851F;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS *//* regeneration trigger v2 */
+/* === SURIOTA A11y contrast fixes (kit Custom CSS, non-snippet) 2026-06-02 ===
+   Scoped to components that only render on LIGHT backgrounds. Brand amber stays
+   bright where it sits on dark sections (global accent var untouched). */
+body.elementor-kit-5{--e-global-color-text:#646464}
+.sx-hero-eyebrow,.sx-eyebrow{color:#946012 !important}
+.sx-whyus-num{color:#946012 !important}
+.sx-related-pillar__num{color:#946012 !important}
+.sx-related-pillars__label{color:#5C6B73 !important}
+.sx-portfolio-live .sx-pl-yb.y-2025{color:#946012 !important}
+.sx-portfolio-live .sx-pl-count,
+.sx-portfolio-live .sx-pl-count span{color:#5C6B73 !important}
+/* amber section H2 on product pages (accent-colored heading on white) */
+.elementor-element-cfb6020 .elementor-heading-title,
+.elementor-element-4212c44 .elementor-heading-title{color:#946012 !important}
+/* === end A11y contrast === *//* End custom CSS */

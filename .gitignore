@@ -79,6 +79,11 @@ audit/seo/*sa*.json
 audit/seo/*service*account*.json
 *service-account*.json
 sa.json
+# OAuth user credentials (NEVER commit)
+audit/seo/client_secret.json
+audit/seo/oauth_token.json
+audit/seo/*client_secret*.json
+client_secret*.json
 
 # Claude Code local config
 .claude/

@@ -1,0 +1,174 @@
+<style id="sx-related-pillars-css">
+.sx-related-pillars {
+  margin: 56px auto 32px;
+  max-width: 1100px;
+  padding: 0 24px;
+  font-family: 'Geist', system-ui, sans-serif;
+}
+.sx-related-pillars__label {
+  font-family: 'Geist Mono', ui-monospace, monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #95A4AB;
+  margin-bottom: 12px;
+}
+.sx-related-pillars__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+}
+.sx-related-pillar {
+  display: block;
+  padding: 18px 20px;
+  background: #FFFFFF;
+  border: 1px solid #EAEFF1;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: transform 240ms cubic-bezier(0.22, 1, 0.36, 1),
+              border-color 240ms cubic-bezier(0.22, 1, 0.36, 1),
+              box-shadow 240ms cubic-bezier(0.22, 1, 0.36, 1);
+  position: relative;
+}
+.sx-related-pillar:hover {
+  border-color: #C8851F;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -8px rgba(14, 37, 48, 0.12);
+}
+.sx-related-pillar__num {
+  font-family: 'Geist Mono', monospace;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  color: #C8851F;
+  margin-bottom: 6px;
+}
+.sx-related-pillar__title {
+  font-size: 14.5px;
+  font-weight: 600;
+  color: #0E2530;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
+  margin-bottom: 4px;
+}
+.sx-related-pillar__desc {
+  font-size: 12.5px;
+  color: #4D5E66;
+  line-height: 1.5;
+}
+.sx-related-pillar__arrow {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  color: #C8C5C0;
+  font-size: 14px;
+  transition: color 240ms cubic-bezier(0.22, 1, 0.36, 1), transform 280ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+.sx-related-pillar:hover .sx-related-pillar__arrow {
+  color: #C8851F;
+  transform: translateX(3px);
+}
+@media (prefers-reduced-motion: reduce) {
+  .sx-related-pillar, .sx-related-pillar__arrow { transition: none; }
+  .sx-related-pillar:hover { transform: none; }
+  .sx-related-pillar:hover .sx-related-pillar__arrow { transform: none; }
+}
+</style>
+<script>
+(function(){
+  // Pillar slugs (EN canonical) -> [slug-id, slug-zh, num, title-en, desc-en, title-id, desc-id, title-zh, desc-zh]
+  var PILLARS = {
+    "industrial-iot-system-integration": {
+      n: "01",
+      en: ["Industrial IoT & System Integration","Modbus, OPC UA, MQTT gateways and SCADA/MES/ERP integration."],
+      id: ["IoT Industri & Integrasi Sistem","Gateway Modbus, OPC UA, MQTT serta integrasi SCADA/MES/ERP."],
+      zh: ["工业 IoT 与系统集成","Modbus、OPC UA、MQTT 网关与 SCADA/MES/ERP 集成。"],
+      slugs: {en: "industrial-iot-system-integration", id: "iot-industri-integrasi-sistem", zh: "gongye-wulianwang-jicheng"}
+    },
+    "suriota-modbus-gateway": {
+      n: "02",
+      en: ["Modbus Gateway (RTU/TCP)","ESP32-based Modbus RTU/TCP-to-MQTT gateway hardware."],
+      id: ["Modbus Gateway (RTU/TCP)","Hardware gateway Modbus RTU/TCP ke MQTT berbasis ESP32."],
+      zh: ["Modbus 网关 (RTU/TCP)","基于 ESP32 的 Modbus RTU/TCP 到 MQTT 网关硬件。"],
+      slugs: {en: "suriota-modbus-gateway", id: "suriota-modbus-gateway-id", zh: "modbus-gateway"}
+    },
+    "surge-saas-platform": {
+      n: "03",
+      en: ["SURGE SaaS Monitoring","Multi-tenant cloud monitoring, dashboards, KLHK SPARING."],
+      id: ["SURGE SaaS Monitoring","Cloud monitoring multi-tenant, dashboard, KLHK SPARING."],
+      zh: ["SURGE SaaS 监控","多租户云监控、仪表板、KLHK SPARING 合规。"],
+      slugs: {en: "surge-saas-platform", id: "platform-saas-surge", zh: "surge-saas-pingtai"}
+    },
+    "industrial-engineering-automation": {
+      n: "04",
+      en: ["Industrial Engineering & SCADA","PLC, SCADA, HMI, panel, automation engineering for plants."],
+      id: ["Teknik Industri & SCADA","PLC, SCADA, HMI, panel, otomasi industri untuk pabrik."],
+      zh: ["工业工程与 SCADA","PLC、SCADA、HMI、控制柜、工厂自动化工程。"],
+      slugs: {en: "industrial-engineering-automation", id: "teknik-industri-otomasi", zh: "gongye-gongcheng-zidonghua"}
+    },
+    "surge-energy-mapping": {
+      n: "05",
+      en: ["Renewable Energy & Mapping","Solar PV, PLTS hybrid, energy mapping, water treatment automation."],
+      id: ["Energi Terbarukan & Mapping","Solar PV, PLTS hybrid, energy mapping, otomasi pengolahan air."],
+      zh: ["可再生能源与映射","太阳能光伏、PLTS 混合、能源映射、水处理自动化。"],
+      slugs: {en: "surge-energy-mapping", id: "surge-energy-mapping-id", zh: "surge-energy-mapping-2"}
+    }
+  };
+  var I18N_LABEL = {en: "Related Capabilities", id: "Pilar Terkait", zh: "相关能力"};
+
+  function init(){
+    var path = location.pathname.replace(/^\/+|\/+$/g, '');
+    var lang = 'en';
+    if (path.indexOf('id/') === 0) { lang = 'id'; path = path.slice(3); }
+    else if (path.indexOf('zh/') === 0) { lang = 'zh'; path = path.slice(3); }
+    // Find current pillar by slug match
+    var currentKey = null;
+    Object.keys(PILLARS).forEach(function(k){
+      var p = PILLARS[k];
+      if (p.slugs[lang] === path) currentKey = k;
+    });
+    if (!currentKey) return;
+    // Build siblings: 4 other pillars
+    var siblings = Object.keys(PILLARS).filter(function(k){ return k !== currentKey; });
+    // Build markup
+    var html = '<aside class="sx-related-pillars">';
+    html += '<div class="sx-related-pillars__label">' + I18N_LABEL[lang] + '</div>';
+    html += '<div class="sx-related-pillars__grid">';
+    siblings.forEach(function(k){
+      var p = PILLARS[k];
+      var slug = p.slugs[lang];
+      var url = lang === 'en' ? '/' + slug + '/' : '/' + lang + '/' + slug + '/';
+      var data = p[lang];
+      html += '<a class="sx-related-pillar" href="' + url + '">';
+      html += '<span class="sx-related-pillar__arrow">\u2197</span>';
+      html += '<div class="sx-related-pillar__num">' + p.n + '</div>';
+      html += '<div class="sx-related-pillar__title">' + data[0] + '</div>';
+      html += '<div class="sx-related-pillar__desc">' + data[1] + '</div>';
+      html += '</a>';
+    });
+    html += '</div></aside>';
+    // Find injection point: before FAQ or before footer
+    var faq = document.querySelector('.elementor-widget.elementor-widget-html [class*="faq"], details, .sx-faq, [class*="-faq"]');
+    var target = null;
+    if (faq) {
+      target = faq.closest('.elementor-section') || faq.closest('section') || faq.parentElement;
+    }
+    if (!target) {
+      // Fallback: insert before footer
+      target = document.querySelector('footer') || document.body.lastElementChild;
+    }
+    var wrap = document.createElement('div');
+    wrap.innerHTML = html;
+    if (target && target.parentNode) {
+      target.parentNode.insertBefore(wrap.firstChild, target);
+    } else {
+      document.body.appendChild(wrap.firstChild);
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
