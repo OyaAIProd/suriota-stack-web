@@ -11,6 +11,7 @@ WordPress + Elementor | AIOSEO | Polylang | Playwright | Python | Claude Code + 
 [![WordPress](https://img.shields.io/badge/WordPress-6.x-21759b?logo=wordpress)](https://wordpress.org)
 [![Elementor](https://img.shields.io/badge/Elementor-Pro-92003B?logo=elementor)](https://elementor.com)
 [![Playwright](https://img.shields.io/badge/Playwright-1.x-2EAD33?logo=playwright)](https://playwright.dev)
+[![SafeSkill 60/100](https://img.shields.io/badge/SafeSkill-60%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/gifarikemal-suriota-stack-web)
 
 </div>
 
